@@ -1,6 +1,6 @@
 ### 💫 About Me
 
-Hi! I'm **Jeffrey Yueh**, a Computer Engineering student driven by the intersection of **technology, mental health, and human-centred design**. I love building systems that make a real-world impact — whether that's digital health tools, wearable sensors, or better user experiences.
+Hi! I'm **Jeffrey Yueh**, a Computer Engineering student driven by the intersection of **technology, mental health, and human-centred design**. I love building systems that make a real-world impact, whether that's digital health tools, wearable sensors, or better user experiences.
 
 ---
 
@@ -10,7 +10,7 @@ Hi! I'm **Jeffrey Yueh**, a Computer Engineering student driven by the intersect
 ### 🤝 I'm looking to collaborate on
 - Tech projects related to **digital health, mental health, psychology, or user experience research**
 - **AI-driven tools for healthcare innovation**
-- Open-source projects that make measurable social impact
+- Open-source projects that make a measurable social impact
 
 ### 🆘 I'm looking for help with
 - Refining **hardware prototypes and biometric sensor calibration**
@@ -26,14 +26,15 @@ Hi! I'm **Jeffrey Yueh**, a Computer Engineering student driven by the intersect
 - UX and human-centred engineering research
 
 ### 🎲 Fun fact
-I started with wanting to become an engineer, then got interested in psychology, and now I’m building technology that blends both worlds.
+I started with wanting to become an engineer, then got interested in psychology, and now I’m building technology that combines both worlds.
 
 ---
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreyyueh/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreyyueh/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuehj@mcmaster.ca)
+[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://jeffrey-yueh.github.io/)
 
 ---
 
