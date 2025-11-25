@@ -1,4 +1,4 @@
-# 💫 About Me
+### 💫 About Me
 
 Hi! I'm **Jeffrey Yueh**, a Computer Engineering student driven by the intersection of **technology, mental health, and human-centred design**. I love building systems that make a real-world impact — whether that's digital health tools, wearable sensors, or better user experiences.
 
@@ -26,19 +26,18 @@ Hi! I'm **Jeffrey Yueh**, a Computer Engineering student driven by the intersect
 - UX and human-centred engineering research
 
 ### 🎲 Fun fact
-I started wanting to become an engineer, then got interested in psychology…  
-and now I’m building technology that blends both worlds.
+I started with wanting to become an engineer, then got interested in psychology, and now I’m building technology that blends both worlds.
 
 ---
 
-# 🌐 Socials
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreyyueh/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuehj@mcmaster.ca)
 
 ---
 
-# 💻 Tech Stack
+###💻 Tech Stack
 
 ### Languages & Frameworks  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -58,7 +57,7 @@ and now I’m building technology that blends both worlds.
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Jeffrey-Yueh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Jeffrey-Yueh&theme=dark&hide_border=false)
